@@ -80,7 +80,6 @@ export default [
         description:
           'Design and build hardware projects - get funding for parts and a ticket to Hackaday Supercon in LA',
         img: '/cards/forge-logo.png',
-        // Wide wordmark; scale it up visually without affecting layout
         imgSx: { transform: 'scale(1.4)', transformOrigin: 'left center' },
         background: '/cards/forge-bg.png',
         titleColor: '#ecdec3',
